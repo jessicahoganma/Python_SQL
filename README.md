@@ -11,7 +11,7 @@ Database Implementation
 Creating, Reading, Updating and Deleting data using SQL and Python  
 # Technologies Used
 [MySQL Community Server](https://dev.mysql.com/downloads/mysql/)  
-MySQL Python Connector  
-PopSQL  
-Jupyter Notebook  
-pandas  
+[MySQL Python Connector](https://dev.mysql.com/doc/connector-python/en/)  
+[PopSQL](https://popsql.com/)  
+[Jupyter Notebook](https://jupyter.org/)  
+[pandas](https://pandas.pydata.org/)  
