@@ -71,7 +71,7 @@ Now we define a function to create a new database on our server. Here we are usi
 ![Screen Shot 2022-03-18 at 9 37 06 PM](https://user-images.githubusercontent.com/98434176/159107034-d28ee345-040c-4688-898d-d49bb48756e5.png)  
 ![Screen Shot 2022-03-18 at 9 38 53 PM](https://user-images.githubusercontent.com/98434176/159107055-65e67e41-06aa-47e4-84cb-ca8d181f816a.png)  
 2.3 - Modify Server Connection Function, Create Database Connection Function  
-Now that the database has been created, I modified the create_server_connection function to create a new function for connecting directly to that database 
+Now that the database has been created, I modified the create_server_connection function to create a new function for connecting directly to that database
 ![Screen Shot 2022-03-18 at 9 42 01 PM](https://user-images.githubusercontent.com/98434176/159107160-c4722526-9d97-4a43-ac9e-bc4addbe134c.png)  
 
 
