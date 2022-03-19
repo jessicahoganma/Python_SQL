@@ -20,7 +20,7 @@ Creating, Reading, Updating and Deleting data using SQL and Python
 [Jupyter Notebook](https://jupyter.org/)  
 [pandas](https://pandas.pydata.org/)  
 # Data Sources
-The data used were created by myself for an [earlier](https://github.com/jessicahoganma/SQL_hospital_Project) project. Some participant names were created using [Fake Name Generator](https://www.fakenamegenerator.com/gen-random-us-us.php).
+The data used were created by myself for an [earlier](https://github.com/jessicahoganma/SQL_hospital_Project) project. All of the participant names were created using [Fake Name Generator](https://www.fakenamegenerator.com/gen-random-us-us.php).
 
 # Table of Contents
 1. Library Import  
@@ -56,18 +56,18 @@ The data used were created by myself for an [earlier](https://github.com/jessica
 
 ### 1. Import Libraries  
 1.1 - Import Libraries  
-Our first step is to import [MYSQL Connector](https://dev.mysql.com/doc/connector-python/en/) and [pandas](https://pandas.pydata.org/)  
+The first step is to import [MYSQL Connector](https://dev.mysql.com/doc/connector-python/en/) and [pandas](https://pandas.pydata.org/)  
 ![Screen Shot 2022-03-18 at 9 29 19 PM](https://user-images.githubusercontent.com/98434176/159106756-e43317c6-8d5e-4488-a85c-4625abb74dec.png)
 
 ### 2. Connect to Server and Create Database  
 2.1 - Define Server Connection Function  
-Next we want to define a function in python which connects to our MySQL Server  
+Next I defined a function in python which connects to our MySQL Server  
 ![Screen Shot 2022-03-18 at 9 33 03 PM](https://user-images.githubusercontent.com/98434176/159106869-efcf1f73-1772-409a-8345-69cae0277b51.png)  
 ![Screen Shot 2022-03-18 at 9 33 57 PM](https://user-images.githubusercontent.com/98434176/159106899-1cb1dd60-f154-42a6-beb9-cb2a84f40f52.png)  
 ![Screen Shot 2022-03-18 at 9 34 22 PM](https://user-images.githubusercontent.com/98434176/159106912-7d8370cf-898a-4da4-ac53-806578cc8ece.png)  
 
 2.2 - Create a New Database
-Now we define a function to create a new database on our server. Here we are using cursor.execute() to execute a CREATE DATABASE SQL command.  
+Then I defined a function to create a new database on the server. Here I used cursor.execute() to execute a CREATE DATABASE SQL command.  
 ![Screen Shot 2022-03-18 at 9 37 06 PM](https://user-images.githubusercontent.com/98434176/159107034-d28ee345-040c-4688-898d-d49bb48756e5.png)  
 ![Screen Shot 2022-03-18 at 9 38 53 PM](https://user-images.githubusercontent.com/98434176/159107055-65e67e41-06aa-47e4-84cb-ca8d181f816a.png)  
 2.3 - Modify Server Connection Function, Create Database Connection Function  
