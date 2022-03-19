@@ -66,3 +66,9 @@ Next we want to define a function in python which connects to our MySQL Server
 ![Screen Shot 2022-03-18 at 9 33 57 PM](https://user-images.githubusercontent.com/98434176/159106899-1cb1dd60-f154-42a6-beb9-cb2a84f40f52.png)  
 ![Screen Shot 2022-03-18 at 9 34 22 PM](https://user-images.githubusercontent.com/98434176/159106912-7d8370cf-898a-4da4-ac53-806578cc8ece.png)  
 
+2.2 - Create a New Database
+Now we define a function to create a new database on our server. Here we are using cursor.execute() to execute a CREATE DATABASE SQL command.  
+![Screen Shot 2022-03-18 at 9 37 06 PM](https://user-images.githubusercontent.com/98434176/159107034-d28ee345-040c-4688-898d-d49bb48756e5.png)  
+![Screen Shot 2022-03-18 at 9 38 53 PM](https://user-images.githubusercontent.com/98434176/159107055-65e67e41-06aa-47e4-84cb-ca8d181f816a.png)  
+
+
