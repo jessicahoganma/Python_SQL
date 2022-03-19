@@ -78,6 +78,5 @@ The final step of this stage is to create a function which will allow us to exec
 ![Screen Shot 2022-03-18 at 9 59 44 PM](https://user-images.githubusercontent.com/98434176/159107587-c9bd3be9-ef99-45e1-ad56-b37b98dddafb.png)
 
 ### 3.Creating Tables  
-
-
+![Screen Shot 2022-03-18 at 10 16 54 PM](https://user-images.githubusercontent.com/98434176/159108014-726ec890-dcfd-427d-b8b0-b2ac90c806ce.png)  
 3.2 Define Foreign Key Relationships  
