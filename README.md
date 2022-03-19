@@ -25,31 +25,31 @@ The data used were created by myself for an [earlier](https://github.com/jessica
 #Table of Contents
 1. Library Import  
 *1.1 Library Import  
-2. Connect to Server and Create Database
-2.1 Define Server Connection Function
-2.2 Create a New Database
-2.3 Modify Server Connection Function, Create Database Connection Function
-2.4 Define Query Execution Function
-3. Creating Tables
-3.1 Create Teacher Table
-3.2 Create Remaining Tables
-3.3 Define Foreign Key Relationships
-4. Populating Tables
-4.1 Populate Teacher Table
-4.2 Populate Remaining Tables
-5. Reading Data
-5.1 Define Data Reading Function
-5.2 - Read Data from Database
-5.3 - Formatting Output into a List
-5.4 - Formatting Output into a List of Lists
-5.5 - Formatting Output into a pandas DataFrame
-6. Updating Records
-6.1 Updating Client Address
-7. Deleting Records
-7.1 Deleting a Course
-7.2 Restoring the Course
-8. Creating Records from Lists
-8.1 Create Execute List Query Function
-8.2 Add New Teachers
-9. Conclusion
-9.1 Conclusion
+2. Connect to Server and Create Database  
+2.1 Define Server Connection Function  
+2.2 Create a New Database  
+2.3 Modify Server Connection Function, Create Database Connection Function  
+2.4 Define Query Execution Function  
+3. Creating Tables  
+3.1 Create Teacher Table  
+3.2 Create Remaining Tables  
+3.3 Define Foreign Key Relationships  
+4. Populating Tables  
+4.1 Populate Teacher Table  
+4.2 Populate Remaining Tables  
+5. Reading Data  
+5.1 Define Data Reading Function  
+5.2 - Read Data from Database  
+5.3 - Formatting Output into a List  
+5.4 - Formatting Output into a List of Lists  
+5.5 - Formatting Output into a pandas DataFrame  
+6. Updating Records  
+6.1 Updating Client Address  
+7. Deleting Records  
+7.1 Deleting a Course  
+7.2 Restoring the Course  
+8. Creating Records from Lists  
+8.1 Create Execute List Query Function  
+8.2 Add New Teachers  
+9. Conclusion  
+9.1 Conclusion  
