@@ -90,7 +90,11 @@ The final step of this stage is to create a function which will allow us to exec
 ![Screen Shot 2022-03-18 at 11 11 20 PM](https://user-images.githubusercontent.com/98434176/159109653-60b668a6-aaac-43aa-b67f-82d88a46f810.png)
 
 ### 5. Reading Data   
-In order to create read queries, a new function will be needed   
+5.1 In order to create read queries, a new function will be needed   
 ![Screen Shot 2022-03-18 at 11 15 50 PM](https://user-images.githubusercontent.com/98434176/159109791-519331a7-e4ef-43df-89f8-b1565d22c4c7.png)
+
+5.2 Read Data from Database   
+![Screen Shot 2022-03-18 at 11 19 16 PM](https://user-images.githubusercontent.com/98434176/159109951-6c57f94e-5012-4f1b-943a-927c94f23227.png)   
+
 
 
