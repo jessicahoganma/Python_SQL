@@ -5,11 +5,11 @@ The notebook takes the reader step-by-step through all the processes involved wi
 
 ![image](https://user-images.githubusercontent.com/98434176/156659166-0f18fc5f-81bf-41e4-a485-371a7e55666b.png)
 
-#Methods used
+# Methods used
   Defining functions in Python
   Database Implementation
   Creating, Reading, Updating and Deleting data using SQL and Python
-#Technologies used
+# Technologies used
   MySQL Community Server
   MySQL Python Connector
   PopSQL
