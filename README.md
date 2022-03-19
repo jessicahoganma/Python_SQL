@@ -10,7 +10,7 @@ Defining functions in Python
 Database Implementation  
 Creating, Reading, Updating and Deleting data using SQL and Python  
 # Technologies Used
-MySQL Community Server  (https://dev.mysql.com/downloads/mysql/)
+[MySQL Community Server](https://dev.mysql.com/downloads/mysql/)  
 MySQL Python Connector  
 PopSQL  
 Jupyter Notebook  
