@@ -20,4 +20,4 @@ Creating, Reading, Updating and Deleting data using SQL and Python
 [Jupyter Notebook](https://jupyter.org/)  
 [pandas](https://pandas.pydata.org/)  
 # Data Sources
-The data used were created by myself for an earlier [https://github.com/jessicahoganma/SQL_hospital_Project] project. Some participant names were created using Fake Name Generator[https://www.fakenamegenerator.com/gen-random-us-us.php].
+The data used were created by myself for an [earlier] (https://github.com/jessicahoganma/SQL_hospital_Project) project. Some participant names were created using [Fake Name Generator](https://www.fakenamegenerator.com/gen-random-us-us.php).
