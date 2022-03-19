@@ -34,8 +34,7 @@ The data used were created by myself for an [earlier](https://github.com/jessica
 3.1 Create Tables  
 3.2 Define Foreign Key Relationships  
 4. Populating Tables  
-4.1 Populate Teacher Table  
-4.2 Populate Remaining Tables  
+4.1 Populate Tables  
 5. Reading Data  
 5.1 Define Data Reading Function  
 5.2 - Read Data from Database  
