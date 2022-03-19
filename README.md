@@ -59,3 +59,10 @@ The data used were created by myself for an [earlier](https://github.com/jessica
 Our first step is to import [MYSQL Connector](https://dev.mysql.com/doc/connector-python/en/) and [pandas](https://pandas.pydata.org/)  
 ![Screen Shot 2022-03-18 at 9 29 19 PM](https://user-images.githubusercontent.com/98434176/159106756-e43317c6-8d5e-4488-a85c-4625abb74dec.png)
 
+### 2. Connect to Server and Create Database  
+2.1 - Define Server Connection Function  
+Next we want to define a function in python which connects to our MySQL Server  
+![Screen Shot 2022-03-18 at 9 33 03 PM](https://user-images.githubusercontent.com/98434176/159106869-efcf1f73-1772-409a-8345-69cae0277b51.png)  
+![Screen Shot 2022-03-18 at 9 33 57 PM](https://user-images.githubusercontent.com/98434176/159106899-1cb1dd60-f154-42a6-beb9-cb2a84f40f52.png)  
+![Screen Shot 2022-03-18 at 9 34 22 PM](https://user-images.githubusercontent.com/98434176/159106912-7d8370cf-898a-4da4-ac53-806578cc8ece.png)  
+
