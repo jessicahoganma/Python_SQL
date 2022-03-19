@@ -22,7 +22,7 @@ Creating, Reading, Updating and Deleting data using SQL and Python
 # Data Sources
 The data used were created by myself for an [earlier](https://github.com/jessicahoganma/SQL_hospital_Project) project. Some participant names were created using [Fake Name Generator](https://www.fakenamegenerator.com/gen-random-us-us.php).
 
-#Table of Contents
+# Table of Contents
 1. Library Import  
 1.1 Library Import  
 2. Connect to Server and Create Database  
@@ -53,3 +53,7 @@ The data used were created by myself for an [earlier](https://github.com/jessica
 8.2 Add New Teachers  
 9. Conclusion  
 9.1 Conclusion  
+
+1. Import Libraries 
+2. 1.1 - Import Libraries  
+3. Our first stel is to import [MYSQL Connector](https://dev.mysql.com/doc/connector-python/en/) and [pandas](https://pandas.pydata.org/) 
