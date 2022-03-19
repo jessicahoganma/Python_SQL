@@ -74,10 +74,10 @@ Now that the database has been created, I modified the create_server_connection 
 ![Screen Shot 2022-03-18 at 9 42 01 PM](https://user-images.githubusercontent.com/98434176/159107160-c4722526-9d97-4a43-ac9e-bc4addbe134c.png)  
 
 2.4 - Define Query Execution Function
-The final step of this stage is to create a function which will allow us to execute queries written in SQL.
+The final step of this stage is to create a function which will allow us to execute queries written in SQL.  
 ![Screen Shot 2022-03-18 at 9 59 44 PM](https://user-images.githubusercontent.com/98434176/159107587-c9bd3be9-ef99-45e1-ad56-b37b98dddafb.png)
 
 ### 3.Creating Tables  
-![Screen Shot 2022-03-18 at 10 12 15 PM](https://user-images.githubusercontent.com/98434176/159107882-87c9effa-b7b3-4ea5-9067-571e4c65f200.png)
+
 
 3.2 Define Foreign Key Relationships  
