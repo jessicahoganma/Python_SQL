@@ -54,6 +54,8 @@ The data used were created by myself for an [earlier](https://github.com/jessica
 9. Conclusion  
 9.1 Conclusion  
 
+
+
 1. Import Libraries 
 2. 1.1 - Import Libraries  
 3. Our first stel is to import [MYSQL Connector](https://dev.mysql.com/doc/connector-python/en/) and [pandas](https://pandas.pydata.org/) 
