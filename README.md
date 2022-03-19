@@ -31,9 +31,8 @@ The data used were created by myself for an [earlier](https://github.com/jessica
 2.3 Modify Server Connection Function, Create Database Connection Function  
 2.4 Define Query Execution Function  
 3. Creating Tables  
-3.1 Create Teacher Table  
-3.2 Create Remaining Tables  
-3.3 Define Foreign Key Relationships  
+3.1 Create Tables  
+3.2 Define Foreign Key Relationships  
 4. Populating Tables  
 4.1 Populate Teacher Table  
 4.2 Populate Remaining Tables  
@@ -74,4 +73,11 @@ Then I defined a function to create a new database on the server. Here I used cu
 Now that the database has been created, I modified the create_server_connection function to create a new function for connecting directly to that database  
 ![Screen Shot 2022-03-18 at 9 42 01 PM](https://user-images.githubusercontent.com/98434176/159107160-c4722526-9d97-4a43-ac9e-bc4addbe134c.png)  
 
+2.4 - Define Query Execution Function
+The final step of this stage is to create a function which will allow us to execute queries written in SQL.
+![Screen Shot 2022-03-18 at 9 59 44 PM](https://user-images.githubusercontent.com/98434176/159107587-c9bd3be9-ef99-45e1-ad56-b37b98dddafb.png)
 
+### 3.Creating Tables  
+![Screen Shot 2022-03-18 at 10 12 15 PM](https://user-images.githubusercontent.com/98434176/159107882-87c9effa-b7b3-4ea5-9067-571e4c65f200.png)
+
+3.2 Define Foreign Key Relationships  
