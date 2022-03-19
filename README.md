@@ -86,7 +86,8 @@ The final step of this stage is to create a function which will allow us to exec
 4.1 Populate Tables  
 ![Screen Shot 2022-03-18 at 11 10 01 PM](https://user-images.githubusercontent.com/98434176/159109618-99b7e3ed-cf9a-4d7c-9d33-ef5f54143792.png)
 ![Screen Shot 2022-03-18 at 11 10 27 PM](https://user-images.githubusercontent.com/98434176/159109630-104871df-dfd1-4edb-906f-94a033070e4a.png)
-![Screen Shot 2022-03-18 at 11 11 02 PM](https://user-images.githubusercontent.com/98434176/159109646-94653797-ead6-48f1-a9c7-271438a50d9c.png)
+![Screen Shot 2022-03-18 at 11 12 40 PM](https://user-images.githubusercontent.com/98434176/159109694-931e67e3-ceee-46c0-a02b-59e93d4885f1.png)
 ![Screen Shot 2022-03-18 at 11 11 20 PM](https://user-images.githubusercontent.com/98434176/159109653-60b668a6-aaac-43aa-b67f-82d88a46f810.png)
+
 
 
