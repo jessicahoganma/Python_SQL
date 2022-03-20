@@ -101,5 +101,18 @@ The final step of this stage is to create a function which will allow us to exec
 ![Screen Shot 2022-03-19 at 10 14 31 PM](https://user-images.githubusercontent.com/98434176/159149228-d4c0c328-0530-4317-a100-6901713f560c.png)
 ![Screen Shot 2022-03-19 at 10 48 17 PM](https://user-images.githubusercontent.com/98434176/159149984-f13d777d-0718-47c9-a5de-ac4b214af4de.png)
 
+5.3 - Formatting Output into a List  
+Now we can assign the results to a list.  
+The following code returns the results of our query as a list of tuples.  
+![Screen Shot 2022-03-19 at 10 55 55 PM](https://user-images.githubusercontent.com/98434176/159150167-327b5d07-211c-4b43-a4da-ecbfe2709497.png)
+![Screen Shot 2022-03-19 at 10 58 37 PM](https://user-images.githubusercontent.com/98434176/159150250-044f67ad-7b8f-4e3c-944a-a7f9faf91392.png)
+
+5.4 - Formatting Output into a List of Lists
+If we want to, we can make this return a list of lists instead, like so:  
+![Screen Shot 2022-03-19 at 11 00 15 PM](https://user-images.githubusercontent.com/98434176/159150293-cdcfdb66-9050-45db-97bb-60de57b36946.png)
+
+5.5 - Formatting Output into a pandas DataFrame  
+With a little more work (creating a list with our column names), we can create a pandas DataFrame like so:  
+
 
 
