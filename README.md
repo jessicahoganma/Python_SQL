@@ -81,7 +81,8 @@ The final step of this stage is to create a function which will allow us to exec
 ![Screen Shot 2022-03-19 at 9 02 29 PM](https://user-images.githubusercontent.com/98434176/159147572-d971cb97-f131-4be1-b334-f46d32b543f4.png)
 
 3.2 Define Foreign Key Relationships  
-![Screen Shot 2022-03-18 at 10 20 18 PM](https://user-images.githubusercontent.com/98434176/159108124-111b24ef-3d90-4065-8c36-8aad9a9e18da.png)
+![Screen Shot 2022-03-19 at 9 05 11 PM](https://user-images.githubusercontent.com/98434176/159147620-46071a46-bd22-4263-86b3-36bb57de367a.png)
+
  
 ### 4. Populating Tables  
 4.1 Populate Tables  
