@@ -56,22 +56,22 @@ The data used were created by myself for an [earlier](https://github.com/jessica
 9.1 Conclusion  
 
 ### 1. Import Libraries  
-1.1 - Import Libraries  
+1.1 Import Libraries  
 The first step is to import [MYSQL Connector](https://dev.mysql.com/doc/connector-python/en/) and [pandas](https://pandas.pydata.org/)  
 ![Screen Shot 2022-03-18 at 9 29 19 PM](https://user-images.githubusercontent.com/98434176/159106756-e43317c6-8d5e-4488-a85c-4625abb74dec.png)
 
 ### 2. Connect to Server and Create Database  
-2.1 - Define Server Connection Function  
+2.1 Define Server Connection Function  
 Next I defined a function in python which connects to our MySQL Server  
 ![Screen Shot 2022-03-18 at 9 33 03 PM](https://user-images.githubusercontent.com/98434176/159106869-efcf1f73-1772-409a-8345-69cae0277b51.png)  
 ![Screen Shot 2022-03-18 at 9 33 57 PM](https://user-images.githubusercontent.com/98434176/159106899-1cb1dd60-f154-42a6-beb9-cb2a84f40f52.png)  
 ![Screen Shot 2022-03-18 at 9 34 22 PM](https://user-images.githubusercontent.com/98434176/159106912-7d8370cf-898a-4da4-ac53-806578cc8ece.png)  
 
-2.2 - Create a New Database
+2.2 Create a New Database
 Then I defined a function to create a new database on the server. Here I used cursor.execute() to execute a CREATE DATABASE SQL command.  
 ![Screen Shot 2022-03-18 at 9 37 06 PM](https://user-images.githubusercontent.com/98434176/159107034-d28ee345-040c-4688-898d-d49bb48756e5.png)  
 ![Screen Shot 2022-03-18 at 9 38 53 PM](https://user-images.githubusercontent.com/98434176/159107055-65e67e41-06aa-47e4-84cb-ca8d181f816a.png)  
-2.3 - Modify Server Connection Function, Create Database Connection Function  
+2.3 Modify Server Connection Function, Create Database Connection Function  
 Now that the database has been created, I modified the create_server_connection function to create a new function for connecting directly to that database   
 ![Screen Shot 2022-03-18 at 9 42 01 PM](https://user-images.githubusercontent.com/98434176/159107160-c4722526-9d97-4a43-ac9e-bc4addbe134c.png)  
 
@@ -108,37 +108,36 @@ The final step of this stage is to create a function which will allows you to ex
 ![Screen Shot 2022-03-19 at 10 48 17 PM](https://user-images.githubusercontent.com/98434176/159149984-f13d777d-0718-47c9-a5de-ac4b214af4de.png)
 
 
-5.3 - Formatting Output into a List  
+5.3 Formatting Output into a List  
 Now results can be added to a list of tuples  
 ![Screen Shot 2022-03-19 at 10 55 55 PM](https://user-images.githubusercontent.com/98434176/159150167-327b5d07-211c-4b43-a4da-ecbfe2709497.png)
 ![Screen Shot 2022-03-19 at 10 58 37 PM](https://user-images.githubusercontent.com/98434176/159150250-044f67ad-7b8f-4e3c-944a-a7f9faf91392.png)
 
 
-5.4 - Formatting Output into a List of Lists  
+5.4 Formatting Output into a List of Lists  
 ![Screen Shot 2022-03-19 at 11 00 15 PM](https://user-images.githubusercontent.com/98434176/159150293-cdcfdb66-9050-45db-97bb-60de57b36946.png)
 
 
-5.5 - Formatting Output into a pandas DataFrame  
+5.5 Formatting Output into a pandas DataFrame  
 Creating a pandas DataFrame  
 ![Screen Shot 2022-03-19 at 11 15 08 PM](https://user-images.githubusercontent.com/98434176/159150617-07be990d-508b-4c09-ac3e-ac0915bc7aea.png)
 
-
-6. Updating Records  
-Updating Hospital record  
+### 6. Updating Records   
+6.1 Updating Hospital record  
 ![Screen Shot 2022-03-19 at 11 16 11 PM](https://user-images.githubusercontent.com/98434176/159150646-eaac5f8e-a7a8-4e60-bd84-641786c81892.png)
 
- 7. - Deleting Records  
-Deleting a Psychologist    
+### 7. Deleting Records   
+7.1 Deleting a Psychologist    
 ![Screen Shot 2022-03-20 at 3 32 29 PM](https://user-images.githubusercontent.com/98434176/159188841-07004495-f86a-42d9-a31e-1c8edcc8071d.png)
  
  Confirming the deletion of the record  
 ![Screen Shot 2022-03-20 at 3 31 25 PM](https://user-images.githubusercontent.com/98434176/159188804-5aae567f-7ea2-45ec-ba92-410260cf9e4f.png)
 
 
-7.2 - Restoring the Psychologist  
+7.2 Restoring the Psychologist  
 ![Screen Shot 2022-03-20 at 3 34 00 PM](https://user-images.githubusercontent.com/98434176/159188891-f713fa36-388f-42cf-9be5-650b298e80f0.png)
 
-
-8.2 - Add New Psychologists  
+### 8. Creating Records from Lists
+8.1 Add New Psychologists  
 ![Screen Shot 2022-03-20 at 3 28 10 PM](https://user-images.githubusercontent.com/98434176/159188692-c847670a-04e3-44cc-a5ce-9bc96225a6ae.png)
 ![Screen Shot 2022-03-20 at 3 29 12 PM](https://user-images.githubusercontent.com/98434176/159188728-35cc9b48-0bce-4457-af8d-d58ded85fe05.png)
