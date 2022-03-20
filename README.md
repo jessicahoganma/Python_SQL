@@ -102,7 +102,7 @@ The final step of this stage is to create a function which will allows you to ex
 ![Screen Shot 2022-03-19 at 10 48 17 PM](https://user-images.githubusercontent.com/98434176/159149984-f13d777d-0718-47c9-a5de-ac4b214af4de.png)
 
 5.3 - Formatting Output into a List  
-Now results can be added to a list of tuples
+Now results can be added to a list of tuples  
 ![Screen Shot 2022-03-19 at 10 55 55 PM](https://user-images.githubusercontent.com/98434176/159150167-327b5d07-211c-4b43-a4da-ecbfe2709497.png)
 ![Screen Shot 2022-03-19 at 10 58 37 PM](https://user-images.githubusercontent.com/98434176/159150250-044f67ad-7b8f-4e3c-944a-a7f9faf91392.png)
 
