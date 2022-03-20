@@ -120,5 +120,7 @@ Creating a pandas DataFrame
 7. Deleting Records  
 7.1 - Deleting a Course  
 ![Screen Shot 2022-03-20 at 2 58 27 PM](https://user-images.githubusercontent.com/98434176/159187738-398ac04d-233b-4118-8c7c-0a1216acb5e7.png)
-
+ 
+ Confirming the deletion of the record  
+![Screen Shot 2022-03-20 at 3 01 30 PM](https://user-images.githubusercontent.com/98434176/159187843-a91a05c8-ba18-4009-9095-cb62c85b0af6.png)
 
