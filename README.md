@@ -119,8 +119,6 @@ Creating a pandas DataFrame
 
 7. Deleting Records  
 7.1 - Deleting a Course  
-We can also use our execute_query function to delete records, by using DELETE FROM.  
-
-Let's try this with our course table. First let's remind ourselves of the courses contained in the table.
+![Screen Shot 2022-03-20 at 2 58 27 PM](https://user-images.githubusercontent.com/98434176/159187738-398ac04d-233b-4118-8c7c-0a1216acb5e7.png)
 
 
