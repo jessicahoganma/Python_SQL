@@ -51,9 +51,8 @@ The data used were created by myself for an [earlier](https://github.com/jessica
 7.2 Restoring the Course  
 8. Creating Records from Lists  
 8.1 Create Execute List Query Function  
-8.2 Add New Teachers  
-9. Conclusion  
-9.1 Conclusion  
+8.2 Add New Psychologists  
+
 
 ### 1. Import Libraries  
 1.1 Import Libraries  
@@ -72,13 +71,12 @@ Then I defined a function to create a new database on the server. Here I used cu
 ![Screen Shot 2022-03-18 at 9 37 06 PM](https://user-images.githubusercontent.com/98434176/159107034-d28ee345-040c-4688-898d-d49bb48756e5.png)  
 ![Screen Shot 2022-03-18 at 9 38 53 PM](https://user-images.githubusercontent.com/98434176/159107055-65e67e41-06aa-47e4-84cb-ca8d181f816a.png)  
 2.3 Modify Server Connection Function, Create Database Connection Function  
-Now that the database has been created, I modified the create_server_connection function to create a new function for connecting directly to that database   
+Now that the database has been created, I modified the create_server_connection function to create a new function for connecting directly to that database  
 ![Screen Shot 2022-03-18 at 9 42 01 PM](https://user-images.githubusercontent.com/98434176/159107160-c4722526-9d97-4a43-ac9e-bc4addbe134c.png)  
-
-
 2.4 - Define Query Execution Function
 The final step of this stage is to create a function which will allows you to execute queries written in SQL.  
 ![Screen Shot 2022-03-18 at 9 59 44 PM](https://user-images.githubusercontent.com/98434176/159107587-c9bd3be9-ef99-45e1-ad56-b37b98dddafb.png)
+
 
 ### 3.Creating Tables  
 3.1 Creating Tables  
@@ -122,9 +120,11 @@ Now results can be added to a list of tuples
 Creating a pandas DataFrame  
 ![Screen Shot 2022-03-19 at 11 15 08 PM](https://user-images.githubusercontent.com/98434176/159150617-07be990d-508b-4c09-ac3e-ac0915bc7aea.png)
 
+
 ### 6. Updating Records   
 6.1 Updating Hospital record  
 ![Screen Shot 2022-03-19 at 11 16 11 PM](https://user-images.githubusercontent.com/98434176/159150646-eaac5f8e-a7a8-4e60-bd84-641786c81892.png)
+
 
 ### 7. Deleting Records   
 7.1 Deleting a Psychologist    
@@ -133,9 +133,9 @@ Creating a pandas DataFrame
  Confirming the deletion of the record  
 ![Screen Shot 2022-03-20 at 3 31 25 PM](https://user-images.githubusercontent.com/98434176/159188804-5aae567f-7ea2-45ec-ba92-410260cf9e4f.png)
 
-
 7.2 Restoring the Psychologist  
 ![Screen Shot 2022-03-20 at 3 34 00 PM](https://user-images.githubusercontent.com/98434176/159188891-f713fa36-388f-42cf-9be5-650b298e80f0.png)
+
 
 ### 8. Creating Records from Lists
 8.1 Add New Psychologists  
