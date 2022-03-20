@@ -77,17 +77,20 @@ The final step of this stage is to create a function which will allow us to exec
 ![Screen Shot 2022-03-18 at 9 59 44 PM](https://user-images.githubusercontent.com/98434176/159107587-c9bd3be9-ef99-45e1-ad56-b37b98dddafb.png)
 
 ### 3.Creating Tables  
-3.1 Creating Tables  
-![Screen Shot 2022-03-18 at 10 16 54 PM](https://user-images.githubusercontent.com/98434176/159108014-726ec890-dcfd-427d-b8b0-b2ac90c806ce.png)  
+3.1 Creating Tables 
+![Screen Shot 2022-03-19 at 8 41 04 PM](https://user-images.githubusercontent.com/98434176/159147072-a6f61314-4f2b-4e55-a33e-953997a8835d.png)
+
+
 3.2 Define Foreign Key Relationships  
 ![Screen Shot 2022-03-18 at 10 20 18 PM](https://user-images.githubusercontent.com/98434176/159108124-111b24ef-3d90-4065-8c36-8aad9a9e18da.png)
  
 ### 4. Populating Tables  
 4.1 Populate Tables  
-![Screen Shot 2022-03-18 at 11 10 01 PM](https://user-images.githubusercontent.com/98434176/159109618-99b7e3ed-cf9a-4d7c-9d33-ef5f54143792.png)
-![Screen Shot 2022-03-18 at 11 13 38 PM](https://user-images.githubusercontent.com/98434176/159109724-66bec0ec-ce7d-4362-8f00-936337138f5b.png)
-![Screen Shot 2022-03-18 at 11 12 40 PM](https://user-images.githubusercontent.com/98434176/159109694-931e67e3-ceee-46c0-a02b-59e93d4885f1.png)
-![Screen Shot 2022-03-18 at 11 11 20 PM](https://user-images.githubusercontent.com/98434176/159109653-60b668a6-aaac-43aa-b67f-82d88a46f810.png)
+![Screen Shot 2022-03-19 at 8 41 53 PM](https://user-images.githubusercontent.com/98434176/159147100-406e9a5e-accb-4692-8f5e-166674e83dcf.png)
+![Screen Shot 2022-03-19 at 8 42 08 PM](https://user-images.githubusercontent.com/98434176/159147108-82fb168e-7694-4a29-86db-85d78ee50a6f.png)
+![Screen Shot 2022-03-19 at 8 42 22 PM](https://user-images.githubusercontent.com/98434176/159147110-584305c7-dd8f-4bb9-bc1d-8bc5c8ea20a6.png)
+![Screen Shot 2022-03-19 at 8 42 36 PM](https://user-images.githubusercontent.com/98434176/159147116-9bd880d4-0f68-47aa-95e2-a5e32fe4187e.png)
+
 
 ### 5. Reading Data   
 5.1 In order to create read queries, a new function will be needed   
