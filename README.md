@@ -118,8 +118,8 @@ Creating a pandas DataFrame
 ![Screen Shot 2022-03-19 at 11 16 11 PM](https://user-images.githubusercontent.com/98434176/159150646-eaac5f8e-a7a8-4e60-bd84-641786c81892.png)
 
 7. Deleting Records  
-7.1 - Deleting a Course  
-![Screen Shot 2022-03-20 at 2 58 27 PM](https://user-images.githubusercontent.com/98434176/159187738-398ac04d-233b-4118-8c7c-0a1216acb5e7.png)
+7.1 - Deleting a Psychologist  
+![Screen Shot 2022-03-20 at 3 32 29 PM](https://user-images.githubusercontent.com/98434176/159188841-07004495-f86a-42d9-a31e-1c8edcc8071d.png)
  
  Confirming the deletion of the record  
 ![Screen Shot 2022-03-20 at 3 31 25 PM](https://user-images.githubusercontent.com/98434176/159188804-5aae567f-7ea2-45ec-ba92-410260cf9e4f.png)
