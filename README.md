@@ -77,7 +77,7 @@ The final step of this stage is to create a function which will allow us to exec
 ![Screen Shot 2022-03-18 at 9 59 44 PM](https://user-images.githubusercontent.com/98434176/159107587-c9bd3be9-ef99-45e1-ad56-b37b98dddafb.png)
 
 ### 3.Creating Tables  
-3.1 Creating Tables 
+3.1 Creating Tables  
 ![Screen Shot 2022-03-19 at 9 02 29 PM](https://user-images.githubusercontent.com/98434176/159147572-d971cb97-f131-4be1-b334-f46d32b543f4.png)
 
 3.2 Define Foreign Key Relationships  
@@ -85,10 +85,10 @@ The final step of this stage is to create a function which will allow us to exec
  
 ### 4. Populating Tables  
 4.1 Populate Tables  
-![Screen Shot 2022-03-19 at 8 41 53 PM](https://user-images.githubusercontent.com/98434176/159147100-406e9a5e-accb-4692-8f5e-166674e83dcf.png)
+![Screen Shot 2022-03-19 at 9 03 21 PM](https://user-images.githubusercontent.com/98434176/159147589-8accc010-23cb-461d-956e-202855ac0e1d.png)
 ![Screen Shot 2022-03-19 at 8 42 08 PM](https://user-images.githubusercontent.com/98434176/159147108-82fb168e-7694-4a29-86db-85d78ee50a6f.png)
 ![Screen Shot 2022-03-19 at 8 42 22 PM](https://user-images.githubusercontent.com/98434176/159147110-584305c7-dd8f-4bb9-bc1d-8bc5c8ea20a6.png)
-![Screen Shot 2022-03-19 at 8 42 36 PM](https://user-images.githubusercontent.com/98434176/159147116-9bd880d4-0f68-47aa-95e2-a5e32fe4187e.png)
+![Screen Shot 2022-03-19 at 9 03 52 PM](https://user-images.githubusercontent.com/98434176/159147597-06d768b4-f73e-4511-8e24-227a82410aa2.png)
 
 
 ### 5. Reading Data   
