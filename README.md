@@ -124,3 +124,10 @@ Creating a pandas DataFrame
  Confirming the deletion of the record  
 ![Screen Shot 2022-03-20 at 3 01 30 PM](https://user-images.githubusercontent.com/98434176/159187843-a91a05c8-ba18-4009-9095-cb62c85b0af6.png)
 
+7.2 - Restoring the Psychologist  
+![Screen Shot 2022-03-20 at 3 24 29 PM](https://user-images.githubusercontent.com/98434176/159188579-a8283804-2737-4c3d-815c-1d7901d6354c.png)  
+
+8.2 - Add New Psychologists  
+![Screen Shot 2022-03-20 at 3 26 52 PM](https://user-images.githubusercontent.com/98434176/159188660-8ed6cdd8-fde7-434c-a74a-220125e6c7df.png)
+
+
