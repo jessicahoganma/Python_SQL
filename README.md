@@ -113,6 +113,7 @@ If we want to, we can make this return a list of lists instead, like so:
 
 5.5 - Formatting Output into a pandas DataFrame  
 With a little more work (creating a list with our column names), we can create a pandas DataFrame like so:  
+![Screen Shot 2022-03-19 at 11 05 05 PM](https://user-images.githubusercontent.com/98434176/159150409-033ab6fe-4827-4e22-8dd3-6623517f2c04.png)
 
 
 
