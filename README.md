@@ -126,7 +126,8 @@ Creating a pandas DataFrame
 
 
 7.2 - Restoring the Psychologist  
-![Screen Shot 2022-03-20 at 3 24 29 PM](https://user-images.githubusercontent.com/98434176/159188579-a8283804-2737-4c3d-815c-1d7901d6354c.png)  
+![Screen Shot 2022-03-20 at 3 34 00 PM](https://user-images.githubusercontent.com/98434176/159188891-f713fa36-388f-42cf-9be5-650b298e80f0.png)
+
 
 8.2 - Add New Psychologists  
 ![Screen Shot 2022-03-20 at 3 28 10 PM](https://user-images.githubusercontent.com/98434176/159188692-c847670a-04e3-44cc-a5ce-9bc96225a6ae.png)
