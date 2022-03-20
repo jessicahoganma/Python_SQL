@@ -114,14 +114,14 @@ Returning a list of lists
 Creating a pandas DataFrame  
 ![Screen Shot 2022-03-19 at 11 15 08 PM](https://user-images.githubusercontent.com/98434176/159150617-07be990d-508b-4c09-ac3e-ac0915bc7aea.png)
 
-6. Updating Records
-6.1 - Updating Patient Address
-The Hoospital receives notification that the Big Business Federation has moved office, and now they are located at 23 Fingiertweg, 14534 Berlin. We can change that in our database like so:  
+6. Updating Records  
+6.1 - Updating Patient Address  
+A hospital has moved locations, and now located at 23 Fingiertweg, 14534 Berlin. We can change that in our database like so:  
 ![Screen Shot 2022-03-19 at 11 16 11 PM](https://user-images.githubusercontent.com/98434176/159150646-eaac5f8e-a7a8-4e60-bd84-641786c81892.png)
 
-7. Deleting Records
-7.1 - Deleting a Course
-We can also use our execute_query function to delete records, by using DELETE FROM.
+7. Deleting Records  
+7.1 - Deleting a Course  
+We can also use our execute_query function to delete records, by using DELETE FROM.  
 
 Let's try this with our course table. First let's remind ourselves of the courses contained in the table.
 
