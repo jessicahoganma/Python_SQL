@@ -73,7 +73,7 @@ Now that the database has been created, I modified the create_server_connection 
 ![Screen Shot 2022-03-18 at 9 42 01 PM](https://user-images.githubusercontent.com/98434176/159107160-c4722526-9d97-4a43-ac9e-bc4addbe134c.png)  
 
 2.4 - Define Query Execution Function
-The final step of this stage is to create a function which will allow us to execute queries written in SQL.  
+The final step of this stage is to create a function which will allows you to execute queries written in SQL.  
 ![Screen Shot 2022-03-18 at 9 59 44 PM](https://user-images.githubusercontent.com/98434176/159107587-c9bd3be9-ef99-45e1-ad56-b37b98dddafb.png)
 
 ### 3.Creating Tables  
@@ -102,24 +102,21 @@ The final step of this stage is to create a function which will allow us to exec
 ![Screen Shot 2022-03-19 at 10 48 17 PM](https://user-images.githubusercontent.com/98434176/159149984-f13d777d-0718-47c9-a5de-ac4b214af4de.png)
 
 5.3 - Formatting Output into a List  
-Now we can assign the results to a list.  
-The following code returns the results of our query as a list of tuples.  
+Now results can be added to a list of tuples
 ![Screen Shot 2022-03-19 at 10 55 55 PM](https://user-images.githubusercontent.com/98434176/159150167-327b5d07-211c-4b43-a4da-ecbfe2709497.png)
 ![Screen Shot 2022-03-19 at 10 58 37 PM](https://user-images.githubusercontent.com/98434176/159150250-044f67ad-7b8f-4e3c-944a-a7f9faf91392.png)
 
 5.4 - Formatting Output into a List of Lists
-If we want to, we can make this return a list of lists instead, like so:  
+Returning a list of lists 
 ![Screen Shot 2022-03-19 at 11 00 15 PM](https://user-images.githubusercontent.com/98434176/159150293-cdcfdb66-9050-45db-97bb-60de57b36946.png)
 
 5.5 - Formatting Output into a pandas DataFrame  
-With a little more work (creating a list with our column names), we can create a pandas DataFrame like so:  
+Creating a pandas DataFrame  
 ![Screen Shot 2022-03-19 at 11 15 08 PM](https://user-images.githubusercontent.com/98434176/159150617-07be990d-508b-4c09-ac3e-ac0915bc7aea.png)
 
 6. Updating Records
-Sometimes we will need to update our Database. We can do this very easily using our execute_query function alongside the SQL UPDATE statement.
-
-6.1 - Updating Client Address
-The School receives notification that the Big Business Federation has moved office, and now they are located at 23 Fingiertweg, 14534 Berlin. We can change that in our database like so:  
+6.1 - Updating Patient Address
+The Hoospital receives notification that the Big Business Federation has moved office, and now they are located at 23 Fingiertweg, 14534 Berlin. We can change that in our database like so:  
 ![Screen Shot 2022-03-19 at 11 16 11 PM](https://user-images.githubusercontent.com/98434176/159150646-eaac5f8e-a7a8-4e60-bd84-641786c81892.png)
 
 7. Deleting Records
