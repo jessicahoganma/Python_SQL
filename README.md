@@ -113,7 +113,15 @@ If we want to, we can make this return a list of lists instead, like so:
 
 5.5 - Formatting Output into a pandas DataFrame  
 With a little more work (creating a list with our column names), we can create a pandas DataFrame like so:  
-![Screen Shot 2022-03-19 at 11 05 05 PM](https://user-images.githubusercontent.com/98434176/159150409-033ab6fe-4827-4e22-8dd3-6623517f2c04.png)
+![Screen Shot 2022-03-19 at 11 15 08 PM](https://user-images.githubusercontent.com/98434176/159150617-07be990d-508b-4c09-ac3e-ac0915bc7aea.png)
+
+6. Updating Records
+Sometimes we will need to update our Database. We can do this very easily using our execute_query function alongside the SQL UPDATE statement.
+
+6.1 - Updating Client Address
+The School receives notification that the Big Business Federation has moved office, and now they are located at 23 Fingiertweg, 14534 Berlin. We can change that in our database like so:  
+![Screen Shot 2022-03-19 at 11 16 11 PM](https://user-images.githubusercontent.com/98434176/159150646-eaac5f8e-a7a8-4e60-bd84-641786c81892.png)
+
 
 
 
