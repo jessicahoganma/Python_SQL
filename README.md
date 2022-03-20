@@ -138,6 +138,9 @@ Creating a pandas DataFrame
 
 
 ### 8. Creating Records from Lists
-8.1 Add New Psychologists  
+8.1 Create Execute List Query Function  
+<img width="626" alt="Screen Shot 2022-03-20 at 4 05 56 PM" src="https://user-images.githubusercontent.com/98434176/159189951-008d4d6d-2973-48fb-8b3e-04c4837fd376.png">
+
+8.2 Add New Psychologists  
 ![Screen Shot 2022-03-20 at 3 28 10 PM](https://user-images.githubusercontent.com/98434176/159188692-c847670a-04e3-44cc-a5ce-9bc96225a6ae.png)
 ![Screen Shot 2022-03-20 at 3 29 12 PM](https://user-images.githubusercontent.com/98434176/159188728-35cc9b48-0bce-4457-af8d-d58ded85fe05.png)
