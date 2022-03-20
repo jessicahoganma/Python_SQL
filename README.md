@@ -114,11 +114,11 @@ Creating a pandas DataFrame
 ![Screen Shot 2022-03-19 at 11 15 08 PM](https://user-images.githubusercontent.com/98434176/159150617-07be990d-508b-4c09-ac3e-ac0915bc7aea.png)
 
 6. Updating Records  
-6.1 - Updating a Hospital Address
+6.1 - Updating a Hospital Address  
 ![Screen Shot 2022-03-19 at 11 16 11 PM](https://user-images.githubusercontent.com/98434176/159150646-eaac5f8e-a7a8-4e60-bd84-641786c81892.png)
 
 7. Deleting Records  
-7.1 - Deleting a Psychologist
+7.1 - Deleting a Psychologist  
 ![Screen Shot 2022-03-20 at 3 32 29 PM](https://user-images.githubusercontent.com/98434176/159188841-07004495-f86a-42d9-a31e-1c8edcc8071d.png)
  
  Confirming the deletion of the record  
