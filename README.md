@@ -5,7 +5,8 @@ The notebook takes the reader step-by-step through all the processes involved wi
 
 I implemented the same code to build the below database using data from [this](https://github.com/jessicahoganma/SQL_hospital_Project) previous project, but this time I did it doing it via Python using MySQL Connector.
 
-![Hospital Database ERD](https://user-images.githubusercontent.com/98434176/159106140-f85d0a51-3298-4388-8af9-cb4470ec8503.png)
+![SQL Hospital ERD](https://user-images.githubusercontent.com/98434176/159189377-0cef6fa6-ec9c-4e63-a722-b31e1cc0f2b2.png)
+
 
 
 
