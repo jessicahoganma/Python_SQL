@@ -45,10 +45,10 @@ The data used were created by myself for an [earlier](https://github.com/jessica
 5.4 - Formatting Output into a List of Lists  
 5.5 - Formatting Output into a pandas DataFrame  
 6. Updating Records  
-6.1 Updating Client Address  
+6.1 Updating Hospital Record
 7. Deleting Records  
-7.1 Deleting a Course  
-7.2 Restoring the Course  
+7.1 Deleting a Psychologist 
+7.2 Restoring the Psychologist   
 8. Creating Records from Lists  
 8.1 Create Execute List Query Function  
 8.2 Add New Psychologists  
