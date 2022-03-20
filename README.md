@@ -98,6 +98,7 @@ The final step of this stage is to create a function which will allow us to exec
 
 5.2 Read Data from Database   
 ![Screen Shot 2022-03-18 at 11 19 16 PM](https://user-images.githubusercontent.com/98434176/159109951-6c57f94e-5012-4f1b-943a-927c94f23227.png)   
+![Screen Shot 2022-03-19 at 10 14 31 PM](https://user-images.githubusercontent.com/98434176/159149228-d4c0c328-0530-4317-a100-6901713f560c.png)
 
 
 
