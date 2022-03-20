@@ -106,8 +106,7 @@ Now results can be added to a list of tuples
 ![Screen Shot 2022-03-19 at 10 55 55 PM](https://user-images.githubusercontent.com/98434176/159150167-327b5d07-211c-4b43-a4da-ecbfe2709497.png)
 ![Screen Shot 2022-03-19 at 10 58 37 PM](https://user-images.githubusercontent.com/98434176/159150250-044f67ad-7b8f-4e3c-944a-a7f9faf91392.png)
 
-5.4 - Formatting Output into a List of Lists
-Returning a list of lists 
+5.4 - Formatting Output into a List of Lists  
 ![Screen Shot 2022-03-19 at 11 00 15 PM](https://user-images.githubusercontent.com/98434176/159150293-cdcfdb66-9050-45db-97bb-60de57b36946.png)
 
 5.5 - Formatting Output into a pandas DataFrame  
@@ -115,8 +114,7 @@ Creating a pandas DataFrame
 ![Screen Shot 2022-03-19 at 11 15 08 PM](https://user-images.githubusercontent.com/98434176/159150617-07be990d-508b-4c09-ac3e-ac0915bc7aea.png)
 
 6. Updating Records  
-6.1 - Updating Patient Address  
-A hospital has moved locations, and now located at 23 Fingiertweg, 14534 Berlin. We can change that in our database like so:  
+6.1 - Updating a Hospitals Address   
 ![Screen Shot 2022-03-19 at 11 16 11 PM](https://user-images.githubusercontent.com/98434176/159150646-eaac5f8e-a7a8-4e60-bd84-641786c81892.png)
 
 7. Deleting Records  
